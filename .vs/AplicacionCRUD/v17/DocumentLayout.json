@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\AplicacionCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0BCF4F-5CDB-4229-A03A-2E5EA49DAD7B}|AplicacionCRUD\\AplicacionCRUD.csproj|c:\\users\\atc\\documents\\universidad\\progra\\aplicacioncrud\\aplicacioncrud\\views\\contacto\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F0BCF4F-5CDB-4229-A03A-2E5EA49DAD7B}|AplicacionCRUD\\AplicacionCRUD.csproj|solutionrelative:aplicacioncrud\\views\\contacto\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0BCF4F-5CDB-4229-A03A-2E5EA49DAD7B}|AplicacionCRUD\\AplicacionCRUD.csproj|C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\AplicacionCRUD\\aplicacioncrud\\views\\contacto\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F0BCF4F-5CDB-4229-A03A-2E5EA49DAD7B}|AplicacionCRUD\\AplicacionCRUD.csproj|solutionrelative:aplicacioncrud\\views\\contacto\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0BCF4F-5CDB-4229-A03A-2E5EA49DAD7B}|AplicacionCRUD\\AplicacionCRUD.csproj|C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\AplicacionCRUD\\aplicacioncrud\\controllers\\contactocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0BCF4F-5CDB-4229-A03A-2E5EA49DAD7B}|AplicacionCRUD\\AplicacionCRUD.csproj|solutionrelative:aplicacioncrud\\controllers\\contactocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0BCF4F-5CDB-4229-A03A-2E5EA49DAD7B}|AplicacionCRUD\\AplicacionCRUD.csproj|c:\\users\\atc\\documents\\universidad\\progra\\aplicacioncrud\\aplicacioncrud\\views\\contacto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F0BCF4F-5CDB-4229-A03A-2E5EA49DAD7B}|AplicacionCRUD\\AplicacionCRUD.csproj|solutionrelative:aplicacioncrud\\views\\contacto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0BCF4F-5CDB-4229-A03A-2E5EA49DAD7B}|AplicacionCRUD\\AplicacionCRUD.csproj|c:\\users\\atc\\documents\\universidad\\progra\\aplicacioncrud\\aplicacioncrud\\views\\contacto\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F0BCF4F-5CDB-4229-A03A-2E5EA49DAD7B}|AplicacionCRUD\\AplicacionCRUD.csproj|solutionrelative:aplicacioncrud\\views\\contacto\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0BCF4F-5CDB-4229-A03A-2E5EA49DAD7B}|AplicacionCRUD\\AplicacionCRUD.csproj|C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\AplicacionCRUD\\aplicacioncrud\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0BCF4F-5CDB-4229-A03A-2E5EA49DAD7B}|AplicacionCRUD\\AplicacionCRUD.csproj|solutionrelative:aplicacioncrud\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\AplicacionCRUD\\AplicacionCRUD\\Views\\Contacto\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "AplicacionCRUD\\Views\\Contacto\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\AplicacionCRUD\\AplicacionCRUD\\Views\\Contacto\\Eliminar.cshtml",
+              "RelativeToolTip": "AplicacionCRUD\\Views\\Contacto\\Eliminar.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T23:01:24.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\AplicacionCRUD\\AplicacionCRUD\\Views\\Contacto\\Editar.cshtml",
+              "RelativeDocumentMoniker": "AplicacionCRUD\\Views\\Contacto\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\AplicacionCRUD\\AplicacionCRUD\\Views\\Contacto\\Editar.cshtml",
+              "RelativeToolTip": "AplicacionCRUD\\Views\\Contacto\\Editar.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T22:36:03.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inicio.cshtml",
+              "DocumentMoniker": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\AplicacionCRUD\\AplicacionCRUD\\Views\\Contacto\\Inicio.cshtml",
+              "RelativeDocumentMoniker": "AplicacionCRUD\\Views\\Contacto\\Inicio.cshtml",
+              "ToolTip": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\AplicacionCRUD\\AplicacionCRUD\\Views\\Contacto\\Inicio.cshtml",
+              "RelativeToolTip": "AplicacionCRUD\\Views\\Contacto\\Inicio.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAqwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T04:05:34.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\AplicacionCRUD\\AplicacionCRUD\\Views\\Contacto\\Registrar.cshtml",
+              "RelativeDocumentMoniker": "AplicacionCRUD\\Views\\Contacto\\Registrar.cshtml",
+              "ToolTip": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\AplicacionCRUD\\AplicacionCRUD\\Views\\Contacto\\Registrar.cshtml",
+              "RelativeToolTip": "AplicacionCRUD\\Views\\Contacto\\Registrar.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T04:17:14.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactoController.cs",
+              "DocumentMoniker": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\AplicacionCRUD\\AplicacionCRUD\\Controllers\\ContactoController.cs",
+              "RelativeDocumentMoniker": "AplicacionCRUD\\Controllers\\ContactoController.cs",
+              "ToolTip": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\AplicacionCRUD\\AplicacionCRUD\\Controllers\\ContactoController.cs",
+              "RelativeToolTip": "AplicacionCRUD\\Controllers\\ContactoController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAwHYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T01:03:52.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\AplicacionCRUD\\AplicacionCRUD\\Models\\Contacto.cs",
+              "RelativeDocumentMoniker": "AplicacionCRUD\\Models\\Contacto.cs",
+              "ToolTip": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\AplicacionCRUD\\AplicacionCRUD\\Models\\Contacto.cs",
+              "RelativeToolTip": "AplicacionCRUD\\Models\\Contacto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T01:44:58.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
